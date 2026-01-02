@@ -101,8 +101,11 @@ Feature	Target
 on_period	sweets_consumed
 
 Models used:
+
 -Logistic Regression
+
 -Decision Tree
+
 -Random Forest
 
 All models achieved similar accuracy (≈ 52%) and predicted only the majority class.
