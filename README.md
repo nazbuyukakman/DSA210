@@ -120,8 +120,13 @@ Menstrual period status alone is not a strong predictor of sweet consumption beh
 ##  Future Work
 
 To improve predictive performance, future studies may incorporate:
+
 -Day of week
+
 -Emotional stress levels
+
 -Previous day’s sweet consumption
+
 -Rolling average consumption trends
+
 
